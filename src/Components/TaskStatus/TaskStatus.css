@@ -1,0 +1,11 @@
+.status-main {
+  width: 10%;
+  background-color: rgb(36, 38, 37);
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border-radius: 0px 8px 8px 0px;
+  border: 2px solid powderblue;
+}

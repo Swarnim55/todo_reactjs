@@ -1,0 +1,10 @@
+.etime-main {
+  width: 20%;
+
+  background-color: rgb(44, 43, 43);
+  color: #fff;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

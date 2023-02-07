@@ -1,0 +1,65 @@
+.task-form {
+  height: 20vh;
+}
+.text-input {
+  width: 60%;
+  float: left;
+}
+
+.date-input {
+  width: 40%;
+  float: left;
+}
+.time-input {
+  width: 50%;
+  float: left;
+}
+label {
+  color: aliceblue;
+  font-size: large;
+}
+
+.text-input input[type='text'] {
+  margin: 1%;
+  height: 5vh;
+
+  border-radius: 8px;
+  border: 0.5px;
+  font-size: large;
+}
+.date-input input[type='date'] {
+  margin: 1%;
+  height: 5vh;
+  width: 70%;
+  border-radius: 8px;
+  border: 0.5px;
+  font-size: large;
+  cursor: pointer;
+}
+
+.time-input input[type='time'] {
+  margin: 1%;
+  height: 5vh;
+  width: 62%;
+  border-radius: 8px;
+  border: 0.5px;
+  font-size: large;
+  cursor: pointer;
+}
+
+.task-btn {
+  background-color: powderblue;
+  width: 100px;
+  height: 5vh;
+  font-size: large;
+  border-radius: 8px;
+  margin-top: 1%;
+  margin-left: 80%;
+  cursor: pointer;
+  border: 2px solid plum;
+}
+
+.task-btn:hover {
+  background-color: plum;
+  border: 2px solid powderblue;
+}

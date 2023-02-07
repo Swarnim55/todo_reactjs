@@ -1,0 +1,22 @@
+.date_main {
+  font-size: 1.5vh;
+  background-color: rgb(67, 66, 66);
+  padding: 1.5%;
+  height: 100%;
+  width: 20%;
+  border: 2px solid plum;
+  border-radius: 8px 0px 0px 8px;
+  text-align: center;
+  color: white;
+}
+
+.date_year {
+  font-size: larger;
+}
+.date_month {
+  font-weight: 600;
+}
+
+.date_day {
+  font-size: larger;
+}
